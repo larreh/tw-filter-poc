@@ -1,0 +1,6 @@
+[
+    {"__Filter__": true, "filter_message": "not enuff frenz", "min_followers": 2000},
+    {"__Filter__": true, "filter_message": "for Berta Cáceres!", "replace_target": "Hillary", "replace_value": "Harambe"},
+    {"__Filter__": true, "filter_message": "cyber is potato", "replace_target": "cyber", "replace_value": "potato"},
+    {"__Filter__": true, "filter_message": "got ur goat", "block_pattern": "goat"}
+]
